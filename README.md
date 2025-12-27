@@ -36,19 +36,24 @@ The experiments analyze how each attention type contributes to improved represen
 ##  Repository Structure
 
 ├── Channel/
-│ ├── ....
+│ ├── x.ipynb # Channel attention block implementations
+│ ├── y.ipynb
+│ └── z.ipynb
 │
 ├── Spatial/
-│ ├── ...
+│ ├── x.ipynb # Spatial attention block implementations
+│ ├── y.ipynb
+│ └── z.ipynb
 │
 ├── Branch/
-│ ├── ...
+│ ├── x.ipynb # Branch attention block implementations
+│ ├── y.ipynb
+│ └── z.ipynb
 │
 ├── Networks/
-│ ├── ...
-│
-└── README.md
-
+│ ├── x.ipynb # Backbone networks with integrated attention mechanisms
+│ ├── y.ipynb
+│ └── z.ipynb
 
 ---
 

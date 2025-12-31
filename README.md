@@ -71,7 +71,7 @@ Each notebook demonstrates how attention modules are embedded into the network a
 We used **three medical imaging datasets**, along with their preprocessed versions, for experimental evaluation.
 
 📎 **Google Drive Dataset Link:**  
-👉 https://drive.google.com/drive/folders/1X4HIM1H0sZSJVRUV5jzfLBZkb_kRmI7j
+👉 https://drive.google.com/drive/folders/1rXFDp6YlvpCFrlFzow0LH3NE11l2lrKV?usp=sharing
 
 The drive includes:
 - Original medical image datasets

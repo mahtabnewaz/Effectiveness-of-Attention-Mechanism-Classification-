@@ -84,28 +84,5 @@ The drive includes:
 
 ---
 
-##  How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Effectiveness-of-Attention-Mechanism-Classification.git
-Open any notebook (.ipynb) using:
-
-Jupyter Notebook
-
-JupyterLab
-
-Google Colab
-
-Ensure required libraries are installed:
-
-PyTorch or TensorFlow
-
-NumPy
-
-OpenCV / PIL
-
-Other dependencies specified in the notebooks
-
  Notes
 This is the partial implementation and idea of how the proposed analysis can be done in different settings.

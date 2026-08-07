@@ -1,6 +1,6 @@
-# Effectiveness of Attention Mechanisms for Medical Image Classification
+# Understanding When Attention Helps: A Systematic Empirical Study of Attention Mechanisms in Medical Image Classification
 
-This repository contains the implementation and experimental analysis of **Channel, Spatial, and Branch Attention Mechanisms** for **medical image classification** tasks.  
+This repository contains the partial implementation and experimental analysis of **Channel, Spatial, and Branch Attention Mechanisms** for **medical image classification** tasks.  
 The project is based on our research paper and investigates how different attention strategies influence feature representation and classification performance in medical imaging scenarios.
 
 ---
@@ -62,7 +62,10 @@ The `Networks` folder contains backbone architectures that **import and integrat
 - Spatial Attention
 - Branch Attention
 
-Each notebook demonstrates how attention modules are embedded into the network architecture for medical image classification.
+Each notebook demonstrates how attention modules are embedded into the network architecture for medical image classification. **There are more experimentation and codes which will be shared later.
+
+
+<img width="2128" height="1446" alt="eng270957-fig-0004-m" src="https://github.com/user-attachments/assets/dcc2e09d-f5de-45b6-8d4f-95f069348d11" />
 
 ---
 
@@ -76,6 +79,8 @@ We used **three medical imaging datasets**, along with their preprocessed versio
 The drive includes:
 - Original medical image datasets
 - Preprocessed datasets used in the experiments
+<img width="703" height="436" alt="Screenshot from 2026-08-07 10-41-49" src="https://github.com/user-attachments/assets/f3b6d900-01f5-4d1c-a7fd-fc57a2f3ccd7" />
+
 
 ---
 
@@ -103,9 +108,4 @@ OpenCV / PIL
 Other dependencies specified in the notebooks
 
  Notes
-This repository supports the experimental results presented in the associated research paper
-
-Code is organized to clearly separate attention blocks and network architectures
-
-Designed for reproducibility and further extension in medical image analysis research
-
+This is the partial implementation and idea of how the proposed analysis can be done in different settings.
